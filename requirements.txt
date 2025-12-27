@@ -1,9 +1,10 @@
 pandas
-numpy
+gunicorn
+numpy<2.0
 matplotlib
 seaborn
-scikit-learn
-catboost==1.0.4
+scikit-learn==1.0.2
+catboost==1.2.7
 xgboost
 dill
 flask
